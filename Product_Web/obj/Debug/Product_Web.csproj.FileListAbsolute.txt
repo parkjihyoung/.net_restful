@@ -1,0 +1,17 @@
+F:\2. Project\restful_test\Product_Web\bin\Product_Web.dll.config
+F:\2. Project\restful_test\Product_Web\bin\Product_Web.dll
+F:\2. Project\restful_test\Product_Web\bin\Product_Web.pdb
+F:\2. Project\restful_test\Product_Web\bin\Newtonsoft.Json.dll
+F:\2. Project\restful_test\Product_Web\bin\System.Net.Http.Formatting.dll
+F:\2. Project\restful_test\Product_Web\bin\System.Web.Cors.dll
+F:\2. Project\restful_test\Product_Web\bin\System.Web.Http.Cors.dll
+F:\2. Project\restful_test\Product_Web\bin\System.Web.Http.dll
+F:\2. Project\restful_test\Product_Web\bin\Newtonsoft.Json.xml
+F:\2. Project\restful_test\Product_Web\bin\System.Net.Http.Formatting.xml
+F:\2. Project\restful_test\Product_Web\bin\System.Web.Http.xml
+F:\2. Project\restful_test\Product_Web\bin\System.Web.Http.Cors.xml
+F:\2. Project\restful_test\Product_Web\bin\ko\System.Net.Http.Formatting.resources.dll
+F:\2. Project\restful_test\Product_Web\bin\ko\System.Web.Http.resources.dll
+F:\2. Project\restful_test\Product_Web\obj\Debug\Product_Web.dll
+F:\2. Project\restful_test\Product_Web\obj\Debug\Product_Web.pdb
+F:\2. Project\restful_test\Product_Web\obj\Debug\Product_Web.csprojResolveAssemblyReference.cache

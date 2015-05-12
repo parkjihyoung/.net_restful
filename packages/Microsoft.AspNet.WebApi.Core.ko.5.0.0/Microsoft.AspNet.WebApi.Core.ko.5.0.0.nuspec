@@ -11,6 +11,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>이 패키지에는 ASP.NET Web API Core Libraries용 한국어 위성 어셈블리가 포함되어 있습니다.</description>
     <summary>Microsoft.AspNet.WebApi.Core 패키지용 한국어 리소스</summary>
+    <releaseNotes />
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
     <language>ko</language>
     <tags>Microsoft AspNet WebApi AspNetWebApi</tags>
