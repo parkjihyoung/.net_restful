@@ -42,5 +42,6 @@ F:\2. Project\restful_test\restful_test.Tests\bin\Debug\ko\System.Web.Optimizati
 F:\2. Project\restful_test\restful_test.Tests\obj\Debug\restful_test.Tests.csprojResolveAssemblyReference.cache
 F:\2. Project\restful_test\restful_test.Tests\obj\Debug\restful_test.Tests.dll
 F:\2. Project\restful_test\restful_test.Tests\obj\Debug\restful_test.Tests.pdb
-F:\2. Project\restful_test\restful_test.Tests\bin\Debug\restful_test.Tests.dll.CodeAnalysisLog.xml
-F:\2. Project\restful_test\restful_test.Tests\bin\Debug\restful_test.Tests.dll.lastcodeanalysissucceeded
+F:\2. Project\restful_test\restful_test.Tests\bin\Debug\EntityFramework.dll
+F:\2. Project\restful_test\restful_test.Tests\bin\Debug\EntityFramework.xml
+F:\2. Project\restful_test\restful_test.Tests\bin\Debug\ko\EntityFramework.resources.dll

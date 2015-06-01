@@ -20,7 +20,7 @@
 <script>
     var app = angular.module("ProductApp", []);
     app.controller("ProductController", function ($scope, $http) {
-        $http.get('http://localhost:60068/api/product').
+        $http.get('http://localhost:60068/api/ProductAPI').
           success(function (data, status, headers, config) {
               $scope.products = data;
 

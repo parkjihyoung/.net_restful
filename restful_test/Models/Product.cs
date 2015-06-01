@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Web;
+using System.ComponentModel.DataAnnotations;
 
-namespace restful_test.Controllers
+namespace restful_test.Models
 {
     public class Product
     {
-        public object ID { get; set; }
-        public object Name { get; set; }
-        public object Category { get; set; }
-        public object Price { get; set; }
-        
+        [Key]
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public string Category { get; set; }
+        public decimal Price { get; set; }
+
     }
 }

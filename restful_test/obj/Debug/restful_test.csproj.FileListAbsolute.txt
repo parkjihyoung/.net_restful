@@ -42,3 +42,7 @@ F:\2. Project\restful_test\restful_test\bin\ko\System.Web.WebPages.Deployment.re
 F:\2. Project\restful_test\restful_test\bin\ko\System.Web.WebPages.Razor.resources.dll
 F:\2. Project\restful_test\restful_test\obj\Debug\restful_test.dll
 F:\2. Project\restful_test\restful_test\obj\Debug\restful_test.pdb
+F:\2. Project\restful_test\restful_test\bin\EntityFramework.dll
+F:\2. Project\restful_test\restful_test\bin\EntityFramework.xml
+F:\2. Project\restful_test\restful_test\bin\ko\EntityFramework.resources.dll
+F:\2. Project\restful_test\restful_test\obj\Debug\restful_test.csprojResolveAssemblyReference.cache

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 using System.Web.Mvc;
+using restful_test.Models;
 
 namespace restful_test.Controllers
 {
